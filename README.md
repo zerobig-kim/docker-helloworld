@@ -1,4 +1,4 @@
-# docker-helloworld ###
+# docker-helloworld 
 A simple helloworld app for docker
 
 A simple nginx helloworld application that helps you learn docker image pulls. Runs on port :80
